@@ -13,9 +13,9 @@ export default function App() {
       {/*---Footer---*/}
       <footer>
         This project was coded by {" "}
-        <a href="https://github.com/t-taia/" target="_blank">
+        <a href="https://github.com/t-taia/" target="_blank" rel="noopener noreferrer">
           Taia</a> and is{" "}  
-        <a href="https://github.com/t-taia/react-weather-app" target="_blank" > 
+        <a href="https://github.com/t-taia/react-weather-app" target="_blank" rel="noopener noreferrer"> 
         open-sourced on GitHub</a>
       </footer>
       </div>
