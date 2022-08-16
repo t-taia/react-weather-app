@@ -59,11 +59,8 @@ export default function Weather (props) {
                             className="btn btn-secondary w-100"/>
                         </div>
                     </div>
-                </form>
-
-                <WeatherInfo data={weatherData}/>
-        
-                
+                </form>     
+                <WeatherInfo data={weatherData}/> 
             </div>
             );
     } else {
