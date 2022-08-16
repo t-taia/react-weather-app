@@ -87,7 +87,7 @@ export default function Weather (props) {
             </div>
             );
     } else {
-        {/* API data*/}
+       
 
     const apiKey = "a634dd1dee9be0dfeff6ce65b2525c84";
    
