@@ -1,10 +1,8 @@
 .Weather {
     border: 1px solid #dadde1;
-    font-family: arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: rgb(135, 135, 135);
     padding: 16px;
-   
-    
     border-radius: 4px;
 }
 /*Searching Form*/
